@@ -25,5 +25,5 @@ jobs:
        with:
          file-path: "public/auto-streak/data.txt"
          min-commits: 2
-         max-commits: 5
+         max-commits: 15
          commit-message: "Daily streak maintenance"
