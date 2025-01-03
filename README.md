@@ -1,5 +1,3 @@
-### **Description for the `streak-maintain` Repository**
-
 **streak-maintain** is a GitHub repository designed to help developers effortlessly maintain their GitHub streaks by leveraging the powerful **Auto-Streak Keeper** GitHub Action. This repository is pre-configured with a workflow that automatically creates and updates a file daily, ensuring consistent activity to keep your streak alive.
 
 ---
