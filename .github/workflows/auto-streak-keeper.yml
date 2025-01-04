@@ -30,4 +30,4 @@ jobs:
          user-name: "bmiit145"
          user-email: "21bmiit145@gmail.com"
          github-token: ${{ secrets.GITHUB_TOKEN }}
-         branch-name: "test"
+         branch-name: "main"
