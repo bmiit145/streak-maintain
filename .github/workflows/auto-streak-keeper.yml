@@ -27,3 +27,6 @@ jobs:
          min-commits: 2
          max-commits: 5
          commit-message: "Daily streak maintenance"
+         user-name: "bmiit145"
+         user-email: "21bmiit145@gmail.com"
+         github-token: ${{ secrets.GITHUB_TOKEN }}
