@@ -42,6 +42,9 @@ jobs:
           min-commits: 2
           max-commits: 5
           commit-message: "Automated daily update to maintain streak"
+          user-name: ${{ secrets.GITHUB_USER_NAME }}
+          user-email: ${{ secrets.GITHUB_USER_EMAIL }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ---
